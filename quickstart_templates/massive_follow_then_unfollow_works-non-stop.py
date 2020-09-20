@@ -3,8 +3,8 @@ This template is written by @loopypanda
 
 What does this quickstart script aim to do?
 - My settings is for running InstaPY 24/7 with approximately 1400
-follows/day - 1400 unfollows/day running follow until reaches 7500 and than
-switch to unfollow until reaches 0.
+follows/day - 1400 unfollows/day running follow until it reaches 7500 and then
+switch to unfollow until it reaches 0.
 """
 
 from instapy import InstaPy
